@@ -1,0 +1,4 @@
+gitpython
+matplotlib
+moviepy
+pillow
